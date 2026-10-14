@@ -1,0 +1,1 @@
+- [Flutter in this workspace](flutter-workspace.md) — use Flutter source plus a custom web workflow; there is no Flutter artifact template.
